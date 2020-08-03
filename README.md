@@ -16,9 +16,9 @@
 
 [<img align="left" alt="jas.bio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-<img align="left" alt="JasCodes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jascodes&show_icons=true&hide_border=true" />
-
 ---
+
+<img align="left" alt="JasCodes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jascodes&show_icons=true&hide_border=true" />
 
 [website]: https://jas.bio
 [twitter]: https://twitter.com/jascodes
