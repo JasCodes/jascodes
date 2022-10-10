@@ -5,7 +5,7 @@
 - ❤️ I love Flutter, WebGL and Animations
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m love contributing to Open Source
-- 🥅 2020 Goals: AR | VR | Unreal Game Engine
+- 🥅 2023 Goals: AR | VR | Unreal Game Engine
 - ⚡ Fun fact: I can do Pro Wrestling (The Fake one!!!)
 
 ### Connect with me:
