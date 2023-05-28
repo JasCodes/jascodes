@@ -1,7 +1,7 @@
 ### Hi there, I'm Jas - aka [JasCodes][website] 👋
 
 ## I'm a Developer and Techonogy Enthusiast!
-- 🔭 I’m currently working on a [Bizzy App][bizzy]!
+- 🔭 I’m currently working on [GLU App][glu_website]!
 - ❤️ I love Flutter, WebGL and Animations
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m love contributing to Open Source
@@ -26,4 +26,4 @@
 [youtube]: https://youtube.com/jascodes
 [linkedin]: https://linkedin.com/in/jascodes
 [bizzy]: https://bizzy.jas.bio
-
+[glu_website]: https://glulearning.com
