@@ -8,14 +8,14 @@
 - 🥅 2023 Goals: AR | VR | Unreal Game Engine
 - ⚡ Fun fact: I can do Pro Wrestling (The Fake one!!!)
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [<img align="left" alt="JasCodes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="JasCodes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="left" alt="jas.bio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<br/>
+<br/> -->
 
 ---
 
