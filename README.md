@@ -19,7 +19,19 @@
 
 ---
 
-<img align="left" alt="JasCodes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jascodes&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="JasCodes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jascodes&show_icons=true&hide_border=true" />
+hlkjlkj
+<br/>
+<br/>
+<br/>
+
+--- -->
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=jascodes&theme=onedark&no-frame=true&no-bg=false&margin-w=4&margin-h=4)
+
+---
 
 [website]: https://jas.bio
 [twitter]: https://twitter.com/jascodes
